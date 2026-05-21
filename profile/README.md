@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="Kerith" width="150" height="150" />
+<img src="logo.svg" alt="Kerith" width="250" height="250" />
 
 # KerithJS
 
