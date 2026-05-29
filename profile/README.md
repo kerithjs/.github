@@ -6,11 +6,11 @@
 
 **The architectural standard for Node.js and TypeScript.**
 
-*What Spring Boot did for Java — built natively for Node.*
+_What Spring Boot did for Java — built natively for Node._
 
 [![npm](https://img.shields.io/npm/v/@kerith/core?color=e4f222&label=%40kerith%2Fcore&style=flat-square)](https://www.npmjs.com/package/@kerith/core)
 [![npm](https://img.shields.io/npm/v/@kerith/identifiers?color=e4f222&label=%40kerith%2Fidentifiers&style=flat-square)](https://www.npmjs.com/package/@kerith/identifiers)
-[![npm](https://img.shields.io/npm/v/@kerith/eslint-plugin?color=e4f222&label=%40kerith%2Feslint&style=flat-square)](https://www.npmjs.com/package/@kerith/eslint)
+[![npm](https://img.shields.io/npm/v/@kerith/eslint-plugin?color=e4f222&label=%40kerith%2Feslint&style=flat-square)](https://www.npmjs.com/package/@kerith/eslint-plugin)
 [![License: MIT](https://img.shields.io/badge/license-MIT-e4f222?style=flat-square)](./LICENSE)
 [![kerith.dev](https://img.shields.io/badge/docs-kerith.dev-e4f222?style=flat-square)](https://docs.kerith.dev)
 
@@ -100,12 +100,12 @@ This boundary is not a limitation — it is honesty. You know exactly what to tr
 
 ## The ecosystem
 
-| Package | Description |
-|---|---|
-| [`@kerith/core`](https://www.npmjs.com/package/@kerith/core) | The engine. Deterministic 17-step bootstrap, NITS, dependency graph, CLI |
-| [`@kerith/identifiers`](https://www.npmjs.com/package/@kerith/identifiers) | 80+ structural and logical identifiers for every backend entity type |
-| [`@kerith/eslint-plugin`](https://www.npmjs.com/package/@kerith/eslint-plugin) | Architectural rules enforced at edit time — before the server runs |
-| [`@kerith/create`](https://www.npmjs.com/package/@kerith/create) | `npm create kerith@latest` — correct structure from the first commit |
+| Package                                                                        | Description                                                              |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [`@kerith/core`](https://www.npmjs.com/package/@kerith/core)                   | The engine. Deterministic 17-step bootstrap, NITS, dependency graph, CLI |
+| [`@kerith/identifiers`](https://www.npmjs.com/package/@kerith/identifiers)     | 80+ structural and logical identifiers for every backend entity type     |
+| [`@kerith/eslint-plugin`](https://www.npmjs.com/package/@kerith/eslint-plugin) | Architectural rules enforced at edit time — before the server runs       |
+| [`create-kerith`](https://www.npmjs.com/package/create-kerith)                 | `npm create kerith@latest` — correct structure from the first commit     |
 
 ---
 
@@ -149,6 +149,6 @@ Until then: the code is being built the way Kerith says code should be built. De
 
 [npm](https://www.npmjs.com/org/kerith) · [github.com/KerithJS](https://github.com/KerithJS)
 
-*Built by Vlynk Studios — Porto Alegre, Brasil.*
+_Built by Vlynk Studios — Porto Alegre, Brasil._
 
 </div># .github
